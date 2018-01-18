@@ -6,9 +6,10 @@
 include_recipe 'delivery-truck::default'
 
 chef_gem 'spork' do
-  action :install
+    action :install
 end
 
 chef_gem 'rspec' do
     action :install
-  end
+    version '2.99.0'
+end

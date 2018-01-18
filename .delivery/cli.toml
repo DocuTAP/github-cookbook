@@ -1,0 +1,7 @@
+server = "automate.docutap.local"
+api_protocol = "https"
+user = "lbodeen"
+enterprise = "automate"
+organization = "dtap"
+git_port = "8989"
+pipeline = "master"

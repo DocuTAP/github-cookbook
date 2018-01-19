@@ -6,7 +6,7 @@
   },
   "delivery-truck": {
     "lint": {
-      "enable_cookstyle": true
+      "enable_cookstyle": false
     },
     "publish": {
       "chef_server": true

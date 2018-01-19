@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'rspec/its'
 
 describe GithubCB::Archive do
   describe "ClassMethods" do
